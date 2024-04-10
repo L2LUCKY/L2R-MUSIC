@@ -2,7 +2,7 @@ from pyrogram import filters
 from pyrogram.types import Message
 
 from LuckyX import app
-from LuckyX.core.call import Ayush
+from LuckyX.core.call import Raja
 
 welcome = 20
 close = 30
